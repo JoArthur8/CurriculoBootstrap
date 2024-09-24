@@ -1,7 +1,20 @@
-.socioemocional {
+.socioemocional , .portfolio .carousel {
     padding-left: 20%;
 }
 .carousel {
     
-    width: 30%;
+    width: 40%;
+}
+/* Consertar carrosel depois */
+h1{
+    font-size: 2rem;
+    line-height: 1rem;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+.sobreimg{
+    width: 50%;
+    border-radius: 0.5rem;
+    justify-self: center;
+    align-self: center;
 }
