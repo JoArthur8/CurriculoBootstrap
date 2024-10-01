@@ -37,3 +37,9 @@ h1{
     justify-content: center;
     width: 40%;
 }
+footer h2,p{
+    margin-left: 7%;
+}
+.certificados{
+    width: 80%;
+}
